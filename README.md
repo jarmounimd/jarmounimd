@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Mohamed JARMOUNI
 
 ## About Me
-- 🎓 First-year computer science student at the École Nationale des Sciences Appliquées - Al Hoceima.
+- 🎓 Second-year computer science student at the École Nationale des Sciences Appliquées - Al Hoceima.
 - 👨‍💻 I’m working on **E-manager**, an academic management application.
 
 ## 📚🎓 E-manager Project
