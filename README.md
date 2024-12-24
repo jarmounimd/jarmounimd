@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 Second-year computer science student at the École Nationale des Sciences Appliquées - Al Hoceima.
-- 👨‍💻 I’m working on **Trafic manager**, a java application to manage train trafic.
+- 👨‍💻 I’m working on **TrainMaster**, a java application to manage train trafic.
 
 ## 📚🎓 E-manager Project
 
