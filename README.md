@@ -1,24 +1,71 @@
-# Hi there! 👋 I'm Mohamed JARMOUNI
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Mohamed;A+Full+Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+</div>
 
-## About Me
-- 🎓 Second-year computer science student at the École Nationale des Sciences Appliquées - Al Hoceima.
-- 👨‍💻 I’m working on **TrainMaster**, a java application to manage train trafic.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jarmounimd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-## 📚🎓 E-manager Project
+# 💫 About Me
+> Computer Science student at ENSA Al-Hoceima, passionate about building innovative solutions that make a difference.
 
-E-manager is an academic management application designed to streamline various educational processes. It includes features for managing grades, tracking tasks, and handling other academic functions.
+- 🎓 Exploring the vast world of software development
+- 💡 Love turning ideas into code
+- 🌱 Continuously learning and growing
+- 🚀 Enthusiastic about new technologies
 
-[![E-manager Demo](https://github.com/jarmounimd/E-manager/blob/main/public/assets/data/thumbnail.jpg)](https://www.youtube.com/watch?v=N-cbUr1bGMc)
+## 🚀 Featured Projects
 
-🔗 **[Watch the demo video here](https://www.youtube.com/watch?v=N-cbUr1bGMc)**
+### 🤖 AiVision
+An innovative electronics search platform leveraging AI and computer vision
+- 🔍 Advanced image recognition for electronics
+- 🌐 React.js & Flask architecture
+- 🧠 TensorFlow-powered search engine
+- 📱 Responsive and modern UI
 
-## 🛠️ Technologies I Use
-- JavaScript
-- PHP
-- MVC Architecture
-- CSS
-- HTML
+### 📚 E-manager
+A comprehensive academic management system streamlining educational processes
+- 📊 Grade management and analytics
+- ✅ Task tracking and assignments
+- 👥 User-friendly interface
+- 🔄 MVC architecture implementation
+- [Watch Demo](https://www.youtube.com/watch?v=N-cbUr1bGMc)
 
-## 📫 How to Reach Me
-- **Email:** [jarmounimd@gmail.com](mailto:jarmounimd@gmail.com)
-- **GitHub:** [jarmounimd](https://github.com/jarmounimd)
+### 🚂 TrainMaster
+Sophisticated train traffic management system built with Java
+- 🚉 Real-time train tracking
+- 📊 Traffic optimization
+- 🎯 JavaFX-based interface
+- 🔄 Efficient scheduling algorithms
+
+## 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+### 🎯 Frameworks & Tools
+```yaml
+Frontend:
+  - React.js
+  - JavaFX
+  - HTML5/CSS3
+  
+Backend:
+  - Laravel
+  - Spring Boot
+  - Flask
+  
+Big Data & AI:
+  - TensorFlow
+  - Apache Kafka
+  - Apache Spark
+  
+Tools:
+  - Git
+  - Docker
+  - VS Code
