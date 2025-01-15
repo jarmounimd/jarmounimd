@@ -29,13 +29,6 @@ readme: |
   Language: C
   Database: File-based storage
   Interface: Command-line (CLI)
-  Features:
-    - User Authentication
-    - Role Management
-    - Booking System
-    - Schedule Overview
-  Documentation: Detailed README with Screenshots
-  License: MIT
 
   ### 🤖 AiVision
   An innovative electronics search platform leveraging AI and computer vision
@@ -43,11 +36,11 @@ readme: |
   - 🌐 Modern web architecture
   - 🧠 Deep learning-powered search
   - 📱 Responsive and intuitive UI
+  - [Watch Demo](https://www.youtube.com/watch?v=56qappNnY4s)
 
   **Technologies:**
   Frontend: React.js, Material-UI
   Backend: Flask, TensorFlow
-  Database: MongoDB
   Tools: Docker, Git
 
   ### 📚 E-manager
@@ -70,6 +63,7 @@ readme: |
   - 📊 Traffic optimization
   - 🎯 Desktop application
   - 🔄 Efficient scheduling algorithms
+  - [Watch Demo](https://www.youtube.com/watch?v=oXnukq-EdlU&t=51s)
 
   **Technologies:**
   Frontend: JavaFX, FXML
