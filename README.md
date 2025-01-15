@@ -18,17 +18,24 @@ readme: |
   ## 🚀 Featured Projects
 
   ### 🏫 CampusManager
-  A comprehensive room and reservation management system for educational institutions
-  - 🎯 Smart room allocation system
-  - 📅 Real-time reservation tracking
-  - 🏢 Multi-building management
-  - 👥 User role management
-  - 🔄 Efficient resource utilization
+  A comprehensive room and reservation management system built for Université Abdelmalek Essaadi's ENSA
+  - 🔐 Multi-level user authentication (Admin, Professor, Student)
+  - 📅 Smart room reservation and scheduling
+  - 🏢 Real-time availability tracking
+  - 👥 Role-based access control
+  - 📊 Comprehensive booking management
 
   **Technologies:**
-  Frontend: React.js, Material-UI
-  Backend: Spring Boot, MySQL
-  Tools: Maven, Git
+  Language: C
+  Database: File-based storage
+  Interface: Command-line (CLI)
+  Features:
+    - User Authentication
+    - Role Management
+    - Booking System
+    - Schedule Overview
+  Documentation: Detailed README with Screenshots
+  License: MIT
 
   ### 🤖 AiVision
   An innovative electronics search platform leveraging AI and computer vision
@@ -104,7 +111,6 @@ readme: |
   IDEs & Editors:
     - VS Code
     - IntelliJ IDEA
-    - Eclipse
   
   Design & Simulation:
     - Proteus
@@ -136,15 +142,6 @@ readme: |
     - Arduino
     - Embedded Systems
 
-  ## 📊 GitHub Stats
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jarmounimd&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarmounimd&theme=radical" alt="GitHub Streak" />
-  </p>
 
   ## 🤝 Connect With Me
 
