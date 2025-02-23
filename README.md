@@ -96,7 +96,8 @@ readme: |
   Frameworks:
     - Spring Boot
     - Laravel
-    - Flask
+    - ExpressJS
+    -NestJS
   
   Databases:
     - MySQL
